@@ -1,0 +1,12 @@
+﻿global using mas.Infra;
+global using mas.Infra.EntityConfiguration;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Infrastructure;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Microsoft.EntityFrameworkCore.Migrations;
+global using Microsoft.Extensions.Caching.Memory;
+global using msa.Domain.Aggregates;
+global using msa.Domain.Aggregates.IInmemoryRepository;
+global using msa.Domain.SeedWork;
+global using msa.Infra.Data;
+global using Microsoft.EntityFrameworkCore.Storage;
