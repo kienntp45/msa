@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xpyx8jX65Ed1LuZOvm9NJmsFWqS7aKtC3ahy0RrGPKrQP+a4COHYdCRrzt1PUC1xASW5kqReEI8uGexwNQTIiA==",
+  "success": true,
+  "projectFilePath": "F:\\InternFPTS\\ngotrungkien\\BackEnd\\msa.Common\\msa.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\confluent.kafka\\1.9.2\\confluent.kafka.1.9.2.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
